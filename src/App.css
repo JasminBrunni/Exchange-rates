@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+#container {
+    padding: 30px;
+}
+
+#euro{
+  padding: 10px;
+}
+
+#otsikko {
+  color: #844799;
+  font-style: oblique;
+}
+
+#laatikko{
+  padding: 30px;
+}
